@@ -1,5 +1,5 @@
 {
-    "name": "pear/config_lite",
+    "name": "moay/config_lite",
     "description": "Lightweight package for ini style configuration/settings text files",
     "homepage": "http://pear.php.net/package/Config_Lite",
     "license": "PHP-3.0",
